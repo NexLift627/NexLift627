@@ -10,8 +10,8 @@
 NexLift627/NexLift627 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->def welcome_invitation(name):
-    print(f"Hello {name}! Welcome to our community. We're thrilled to have you here.")
+    print(f"Hello {everyone}! Welcome to our community. We're thrilled to have you here.")
 
 # Example usage
-user_name = input("Enter your name: ")
-welcome_invitation(user_name)
+user_name = input("nexlift47 ")
+welcome_invitation
